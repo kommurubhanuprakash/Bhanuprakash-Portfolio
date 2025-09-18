@@ -73,4 +73,8 @@ npm install
 npm run dev
 
 
+<<<<<<< HEAD
 Now open http://localhost:5173/ in your browser to view the app
+=======
+Now open http://localhost:8080/ in your browser to view the app
+>>>>>>> 0c6b17a0a7eeb48bf56cc523a7d736a376d0051a
